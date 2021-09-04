@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string-array name="listaPaises">
+        <item>Chile</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Puerto Rico</item>
+        <item>Peru</item>
+    </string-array>
+</resources>
